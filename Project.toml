@@ -1,7 +1,7 @@
 name = "NurseryTest"
 uuid = "0714413a-66da-11ea-1294-e93a8f6a993b"
 authors = ["Juergen Fuhrmann <juergen.fuhrmann@wias-berlin.de>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 DiffResults = "163ba53b-c6d8-5494-b064-1a9d43ac40c5"
