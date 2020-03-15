@@ -5,5 +5,8 @@ using DiffResults
 
 function hello()
     println("hello from NurseryTest")
-    println("libvtkfig")
+    println(libvtkfig)
 end
+
+end
+
